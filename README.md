@@ -3,6 +3,8 @@ pydata_2013
 
 PyData Boston 2013 talks: "Intro to scikit-learn" &amp; "Realtime Predictive Analytics: Using scikit-learn and RabbitMQ"
 
+If you are interested in working with scikit-learn and are looking for a job, [send me an email](mailto:mike@beckerfuffle.com).
+
 Intro to scikit-learn
 ---------------------
 In this talk you will get a brief overview of Machine Learning and scikit-learn. This is a repeat of the talk I gave for PhillyPUG & DataPhilly which is a scaled down version of this talk from Pycon 2013 http://github.com/jakevdp/sklearn_pycon2013.
