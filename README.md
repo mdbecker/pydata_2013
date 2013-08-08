@@ -4,6 +4,7 @@ pydata_2013
 PyData Boston 2013 talks: "Intro to scikit-learn" &amp; "Realtime Predictive Analytics: Using scikit-learn and RabbitMQ"
 
 If you are interested in working for [the best company](https://www.aweber.com/blog/press/aweber-wins-2013-best-places-to-work-by-philadelphia-business-journal) in the universe, [send me an email](mailto:mike@beckerfuffle.com).
+![The best company in the universe](/AWeber_Universe.jpg "The best company in the universe")
 
 Intro to scikit-learn
 ---------------------
